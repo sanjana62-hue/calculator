@@ -1,2 +1,2 @@
 # calculator
-A basic calculator program built using python that performs addition, subtraction, multiplication, and division
+A basic calculator program built using html,css,javascript that performs addition, subtraction, multiplication, and division
